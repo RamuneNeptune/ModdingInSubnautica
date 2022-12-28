@@ -122,4 +122,4 @@ Likely will have lots of links and stuff here
 
 <br></br>
 
-#### This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> <img src="https://i.imgur.com/mGSBx4J.png" width="18" height="18"/>
+### This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> <img src="https://i.imgur.com/mGSBx4J.png" width="18" height="18"/>
