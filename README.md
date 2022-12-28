@@ -51,10 +51,9 @@ You can find instructions to access the Legacy branch [here]().
 <strong>Backup your QMods folder if you believe you might switch to [Subnautica Legacy]() at some point in the future.</strong>
 
  3. Extract / Unzip the `Subnautica BepInEx Pack` zip file into your game installation folder. <strong>If it asks about replacing / overwriting files, select Yes, or confirm, or something of that equivalent.</strong>
- 4. Example
- 5. Example
- 8. Example
- 9. Example
+ 4. Launch the game to generate a `plugins` folder, which will appear inside the `BepInEx` folder located in your game installation folder.
+ 5. Extract the `BepInEx Tweaks` & `Configuration Manager` zip files into your game folder, (if you installed them) and they *should* end up inside the `BepInEx\plugins` folder. 
+ 8. You are now free to install mods that are updated for 2.0, [see the list here](https://ramuneneptune.github.io/modlists/sn.html). 
 <br></br>
 
 ## Mod Setup for SN Legacy
