@@ -8,8 +8,8 @@
 
 - Info & FAQ
   - [FAQ]()
-  - [SN 2.0 | List of working mods]()
-  - [BZ 2.0 | List of working mods]()
+  - [SN 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
+  - [BZ 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
 - Installing Mods
   - [Subnautica 2.0]()
   - [Subnautica Legacy]()
