@@ -104,6 +104,9 @@ You can find instructions to access the Legacy branch [here]().
 
 ---
 
-### This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> <img src="https://i.imgur.com/mGSBx4J.png" width="18" height="18"/>
+#### Contributors:
+  - RamuneNeptune
 
-### Contributors: RamuneNeptune
+<br></br>
+
+### This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> <img src="https://i.imgur.com/mGSBx4J.png" width="18" height="18"/>
