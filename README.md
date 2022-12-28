@@ -43,6 +43,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 ### What happened with Nexus?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. 
 
+### How do I access the Legacy branch on Steam?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. 
+
+
 <br></br>
 
 ---
