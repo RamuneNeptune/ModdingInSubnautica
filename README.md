@@ -30,7 +30,7 @@
 
 ## General FAQ
 ### What is Subnautica 2.0?
-An update to the game which caused QModManager to break, and also brought along a ton of changes to the game code. Both of these have caused the need for most (if not all) mods to update to be compatible with the latest version of the game. 
+An update to the game which caused QModManager to break, and also brought along a ton of changes to the game code. Both of these have caused most (if not all) mods to require an update to be compatible with the latest version of the game. 
 
 ### What is Subnautica Legacy?
 A branch of the game available to Steam users. It is the game version prior to the current build, which is 71137, and the Legacy build is 68598.
