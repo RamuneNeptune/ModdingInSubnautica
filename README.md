@@ -28,6 +28,15 @@
 
 ---
 
+### Contributors:
+  - RamuneNeptune: Everything, so far.
+
+---
+
+<br></br>
+
+---
+
 ## General FAQ
 ### What is Subnautica 2.0?
 An update to the game which caused QModManager to break, and also brought along a ton of changes to the game code. Both of these have caused the need for most (if not all) mods to update to be compatible with the latest version of the game. 
@@ -110,15 +119,6 @@ Likely will have lots of links and stuff here
  
  5. Delete the lefover <strong>zip files</strong> for `SMLHelper` & `QModManager`, and then you're ready to install mods to your `QMods` folder.
 <br></br>
-
----
-
-<br></br>
-
----
-
-### Contributors:
-  - RamuneNeptune: Everything, so far.
 
 ---
 
