@@ -22,22 +22,22 @@ You can find instructions to access the Legacy branch [here]().
 
 ## Mods for SN 2.0
 The following is a guide to installing and using mods for Subnautica 2.0.
- 1.
- 2.
- 3.
- 4.
- 5.
- 6.
- 7.
+ 1. Example
+ 2. Example
+ 3. Example
+ 4. Example
+ 5. Example
+ 6. Example
+ 7. Example
 <br></br>
 
 ## Mods for SN Legacy
 The following is a guide to installing and using mods for Subnautica Legacy.
- 1.
- 2.
- 3.
- 4.
- 5.
- 6.
- 7.
+ 1. Example
+ 2. Example
+ 3. Example
+ 4. Example
+ 5. Example 
+ 6. Example 
+ 7. Example 
 <br></br>
