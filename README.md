@@ -8,6 +8,8 @@
 
 - Info & FAQ
   - [FAQ]()
+  - [SN 2.0 | List of working mods]()
+  - [BZ 2.0 | List of working mods]()
 - Installing Mods
   - [Subnautica 2.0]()
   - [Subnautica Legacy]()
@@ -16,9 +18,6 @@
 - Mod Making
   - [Via BepInEx]()
   - [Via QModManager]()
-- Mod Lists
-  - [Subnautica 2.0]()
-  - [Below Zero 2.0]()
 - Misc
 <br></br>
 
