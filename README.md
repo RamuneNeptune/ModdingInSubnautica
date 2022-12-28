@@ -14,11 +14,10 @@
   - [Subnautica 2.0]()
   - [Subnautica Legacy]()
   - [Below Zero]()
- 
 - Mod Making
   - [Via BepInEx]()
   - [Via QModManager]()
-- Misc
+  - 
 <br></br>
 
 ---
