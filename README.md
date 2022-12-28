@@ -33,13 +33,16 @@ The following is a guide to installing and using mods for Subnautica 2.0.
 
 ## Mod Setup for SN Legacy
 The following is a guide to installing and using mods for Subnautica Legacy.
- 1. Example
- 2. Example
- 3. Example
- 4. Example
- 5. Example 
- 6. Example 
+ 1. Download [QModManager v4.4.4]() here, and [SMLHelper v2.14.1]() here.
+ 2. Place both zip files into your game installation folder.
+ 3. Extract / Unzip `QModManager_SN1.STABLE.zip` into your game folder.
+ 3.1. You should now have all the files highlighted in Green.
+ ![](https://snm.crd.co/assets/images/image01.jpg?v=e6c5ef0b)
+ 
+ 5. Launch the game to generate a `QMods` folder.
+ 6. Place your `SMLHelper-SN.STABLE.zip` file into the newly generated `QMods` folder.
  7. Example 
+ 8. Example 
 <br></br>
 
 ---
