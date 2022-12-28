@@ -5,15 +5,15 @@
 ---
 
 # Table of Contents
-- [Info & FAQ]()
-- [Mod Making]()
-- [Mod Lists]()
-- [Misc]()
 
 - Mod Installation
   - [Subnautica 2.0]()
   - [Subnautica Legacy]()
   - [Below Zero]()
+- [Info & FAQ]()
+- [Mod Making]()
+- [Mod Lists]()
+- [Misc]()
 <br></br>
 
 ---
