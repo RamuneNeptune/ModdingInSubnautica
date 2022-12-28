@@ -88,7 +88,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
  
  2. Place both zip files into your game installation folder.
  
- 3. Extract / Unzip `QModManager_SN1.STABLE.zip` into your game folder. You should now have all the files highlighted in Green.
+ 3. Extract / Unzip `QModManager_SN1.STABLE.zip` into your game folder. You should now have all the files highlighted.
  ![](https://snm.crd.co/assets/images/image01.jpg?v=e6c5ef0b)
  
  4. Launch the game to generate a `QMods` folder.
