@@ -50,7 +50,7 @@ You can find instructions to access the Legacy branch [here]().
  
 <strong>Backup your QMods folder if you believe you might switch to [Subnautica Legacy]() at some point in the future.</strong>
 
- 3. Example
+ 3. Extract / Unzip the `Subnautica BepInEx Pack` zip file into your game installation folder. <strong>If it asks about replacing / overwriting files, select Yes, or confirm, or something of that equivalent.</strong>
  4. Example
  5. Example
  8. Example
