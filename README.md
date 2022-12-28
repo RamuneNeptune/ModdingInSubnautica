@@ -21,11 +21,23 @@ You can find instructions to access the Legacy branch [here]().
 ---
 
 ## Mods for SN 2.0
-As the game has recently updated, QModManager broke. A decision was made to discontinue (end) QModManager for current and future version of the game.
-You can still use QModManager for [Subnautica Legacy]()
+The following is a guide to installing and using mods for Subnautica 2.0.
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
 <br></br>
 
 ## Mods for SN Legacy
-As the game has recently updated, QModManager broke. A decision was made to discontinue (end) QModManager for current and future version of the game.
-You can still use QModManager for [Subnautica Legacy]()
+The following is a guide to installing and using mods for Subnautica Legacy.
+ 1.
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7.
 <br></br>
