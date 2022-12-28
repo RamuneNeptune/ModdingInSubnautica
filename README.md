@@ -6,7 +6,10 @@
 
 # Table of Contents
 - [General Information & FAQ]()
-- [Mod Installation]()
+- Mod Installation
+  - [Subnautica 2.0]()
+  - [Subnautica Legacy]()
+  - [Below Zero]()
 - [Mod Making]()
 - [Mod Lists]()
 - [Misc]()
