@@ -24,11 +24,9 @@ You can find instructions to access the Legacy branch [here]().
 <strong>The following is a guide to installing and using mods for Subnautica 2.0. </strong>
  1. Download the [Subnautica BepInEx Pack](), and optionally, but recommended, [BepInEx Tweaks](), and [Configuration Manager]().
  2. If you have used `QModManager` before or have any existing mod installations, delete the `QMods` & `BepInEx` folders from your game folder. 
-
-<br></br>
+\
 <strong>Backup your QMods folder if you believe you might switch to [Subnautica Legacy]() at some point in the future.</strong>
-<br></br>
-
+\
  3. Example
  4. Example
  5. Example
