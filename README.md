@@ -117,7 +117,7 @@ Likely will have lots of links and stuff here
 
 ---
 
-#### Contributors:
+### Contributors:
   - RamuneNeptune: Everything, so far.
 
 <br></br>
