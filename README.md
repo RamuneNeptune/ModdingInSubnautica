@@ -7,15 +7,15 @@
 # Table of Contents
 
 - Info & FAQ
-  - [General FAQ]()
-  - [General Resources]()
+  - [General FAQ](#faq)
+  - [General Resources](#resources)
   - [SN 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
   - [BZ 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
-  - [Page Contributors]() ⭐
+  - [Page Contributors](#contributors) ⭐
 - Installing Mods
-  - [Subnautica 2.0]()
-  - [Subnautica Legacy]()
-  - [Below Zero]()
+  - [Subnautica 2.0](#sn-latest)
+  - [Subnautica Legacy](#sn-legacy)
+  - [Below Zero](#bz-latest)
 - Mod Making
   - [Via BepInEx](https://mroshaw.github.io/)
   - [Via QModManager](https://mroshaw.github.io/)
@@ -23,7 +23,7 @@
 <br></br>
 
 ---
-
+<a name="faq"></a> 
 <br></br>
 
 ---
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 <br></br>
 
 ---
-
+<a name="resources"></a> 
 <br></br>
 
 ---
@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 <br></br>
 
 ---
-
+<a name="sn-latest"></a> 
 <br></br>
 
 ---
@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 <br></br>
 
 ---
-
+<a name="sn-legacy"></a> 
 <br></br>
 
 ---
@@ -99,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 <br></br>
 
 ---
-
+<a name="bz-latest"></a> 
 <br></br>
 
 ---
@@ -120,7 +120,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 <br></br>
 
 ---
-
+<a name="contributors"></a> 
 <br></br>
 
 ---
