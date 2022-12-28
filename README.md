@@ -37,6 +37,12 @@ A branch of the game available to Steam users. It is the game version prior to t
 Keep in mind, as this is the previous version of the game, all mods that worked before the update, will work on Legacy.
 You can find instructions to access the Legacy branch [here]().
 
+### What is Submodica?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. 
+
+### What happened with Nexus?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. 
+
 <br></br>
 
 ---
