@@ -11,10 +11,15 @@
   - [Subnautica Legacy]()
   - [Below Zero]()
  
-- [Info & FAQ]()
-- [Mod Making]()
-- [Mod Lists]()
-- [Misc]()
+- Info & FAQ
+  - [FAQ]()
+- Mod Making
+  - [Via BepInEx]()
+  - [Via QModManager]()
+- Mod Lists
+  - [Subnautica 2.0]()
+  - [Below Zero 2.0]()
+- Misc
 <br></br>
 
 ---
