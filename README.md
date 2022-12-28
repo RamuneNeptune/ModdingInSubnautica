@@ -131,14 +131,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 ---
 
 ### Contributors:
-  - RamuneNeptune: Everything, so far.
-  - NotYourName: It's not your name.. but it could be! Contribute today!
-  - NotYourName: It's not your name.. but it could be! Contribute today!
-  - NotYourName: It's not your name.. but it could be! Contribute today!
-  - NotYourName: It's not your name.. but it could be! Contribute today!
-  - NotYourName: It's not your name.. but it could be! Contribute today!
-  - NotYourName: It's not your name.. but it could be! Contribute today!
-  - NotYourName: It's not your name.. but it could be! Contribute today!
+  - <strong>RamuneNeptune:</strong> Everything, so far.
+  - <strong>NotYourName:</strong> It's not your name.. but it could be! Contribute today!
+  - <strong>NotYourName:</strong> It's not your name.. but it could be! Contribute today!
+  - <strong>NotYourName:</strong> It's not your name.. but it could be! Contribute today!
+  - <strong>NotYourName:</strong> It's not your name.. but it could be! Contribute today!
+  - <strong>NotYourName:</strong> It's not your name.. but it could be! Contribute today!
+  - <strong>NotYourName:</strong> It's not your name.. but it could be! Contribute today!
+  - <strong>NotYourName:</strong> It's not your name.. but it could be! Contribute today!
 
 ---
 
