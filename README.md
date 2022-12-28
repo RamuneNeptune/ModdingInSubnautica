@@ -9,9 +9,9 @@
 - Info & FAQ
   - [General FAQ]()
   - [General Resources]()
-  - [Page Contributors]() ⭐
   - [SN 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
   - [BZ 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
+  - [Page Contributors]() ⭐
 - Installing Mods
   - [Subnautica 2.0]()
   - [Subnautica Legacy]()
