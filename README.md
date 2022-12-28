@@ -53,7 +53,6 @@ You can find instructions to access the Legacy branch [here]().
  3. Extract / Unzip `QModManager_SN1.STABLE.zip` into your game folder.
  3.1. You should now have all the files highlighted in Green.
  ![](https://snm.crd.co/assets/images/image01.jpg?v=e6c5ef0b)
- 
  5. Launch the game to generate a `QMods` folder.
  6. Extract / Unzip `SMLHelper-SN.STABLE.zip` into the newly generated `QMods` folder.
  7. That should create a `Modding Helper` folder inside `QMods`.
