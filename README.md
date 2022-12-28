@@ -22,6 +22,11 @@
   
 <br></br>
 
+## Hey! I'm looking for contributors for this page.
+If you feel there's something you could add, for some ideas, maybe something like a resource to [General Resources](#resources), a question and/or answer for [General FAQ](#faq), or even an entirely new section, I totally recommend you make a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) and do that!
+  
+<br></br>
+
 ---
 <a name="faq"></a> 
 <br></br>
