@@ -58,6 +58,12 @@ You can find instructions to access the Legacy branch [here]().
  6. You are now free to install mods that are updated for 2.0, [see the list here](https://ramuneneptune.github.io/modlists/sn.html). 
 <br></br>
 
+---
+
+<br></br>
+
+---
+
 ## Mod Setup for SN Legacy
  1. Download [QModManager v4.4.4](https://github.com/SubnauticaModding/QModManager/releases/download/v4.4.4/QModManager_SN1.STABLE.zip) here, and [SMLHelper v2.14.1](https://github.com/SubnauticaModding/SMLHelper/releases/download/v2.14.1/SMLHelper_SN.STABLE.zip) here.
  
