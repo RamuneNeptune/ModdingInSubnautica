@@ -6,7 +6,7 @@
 
 # Table of Contents
 
-- Mod Installation
+- Installing Mods
   - [Subnautica 2.0]()
   - [Subnautica Legacy]()
   - [Below Zero]()
