@@ -7,4 +7,8 @@
 
 ---
 
-# Something else
+## Installing mods for Subnautica 2.0 (Latest version)
+As the game has recently updated, QModManager broke. A decision was made to discontinue (end) QModManager for current and future version of the game.
+You can still use QModManager for [Subnautica Legacy]()
+
+## Installing mods for Subnautica Legacy
