@@ -88,6 +88,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 ---
 
 ## Mod Setup for SN (Subnautica) Legacy
+<strong>Holup! This guide is for the Steam Legacy Branch - If you're playing the latest version of the game, or don't know what Legacy is, [go here](#sn-latest)</strong>
  1. Download [QModManager v4.4.4](https://github.com/SubnauticaModding/QModManager/releases/download/v4.4.4/QModManager_SN1.STABLE.zip) here, and [SMLHelper v2.14.1](https://github.com/SubnauticaModding/SMLHelper/releases/download/v2.14.1/SMLHelper_SN.STABLE.zip) here.
  
  2. Place both zip files into your game installation folder.
