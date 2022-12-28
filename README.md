@@ -53,21 +53,24 @@ You can find instructions to access the Legacy branch [here]().
  
  4. Launch the game to generate a `plugins` folder, which will appear inside the `BepInEx` folder located in your game installation folder.
  
- 5. Extract the `BepInEx Tweaks` & `Configuration Manager` zip files into your game folder, (if you installed them) and they *should* end up inside the `BepInEx\plugins` folder. 
+ 5. If installed, extract the `BepInEx Tweaks` & `Configuration Manager` zip files into your <strong>game folder</strong>, and they *should* end up inside the `BepInEx\plugins` folder. 
  
  6. You are now free to install mods that are updated for 2.0, [see the list here](https://ramuneneptune.github.io/modlists/sn.html). 
 <br></br>
 
 ## Mod Setup for SN Legacy
  1. Download [QModManager v4.4.4](https://github.com/SubnauticaModding/QModManager/releases/download/v4.4.4/QModManager_SN1.STABLE.zip) here, and [SMLHelper v2.14.1](https://github.com/SubnauticaModding/SMLHelper/releases/download/v2.14.1/SMLHelper_SN.STABLE.zip) here.
+ 
  2. Place both zip files into your game installation folder.
- 3. Extract / Unzip `QModManager_SN1.STABLE.zip` into your game folder.
- 3.1. You should now have all the files highlighted in Green.
+ 
+ 3. Extract / Unzip `QModManager_SN1.STABLE.zip` into your game folder. You should now have all the files highlighted in Green.
  ![](https://snm.crd.co/assets/images/image01.jpg?v=e6c5ef0b)
- 5. Launch the game to generate a `QMods` folder.
- 6. Extract / Unzip `SMLHelper-SN.STABLE.zip` into the newly generated `QMods` folder.
- 7. That should create a `Modding Helper` folder inside `QMods`.
- 8. Delete the lefover <strong>zip files</strong> for `SMLHelper` & `QModManager`, and then you're ready to install mods to your `QMods` folder.
+ 
+ 4. Launch the game to generate a `QMods` folder.
+ 
+ 4. Extract / Unzip `SMLHelper-SN.STABLE.zip` into the newly generated `QMods` folder, which should create a `Modding Helper` folder inside `QMods`.
+ 
+ 5. Delete the lefover <strong>zip files</strong> for `SMLHelper` & `QModManager`, and then you're ready to install mods to your `QMods` folder.
 <br></br>
 
 ---
