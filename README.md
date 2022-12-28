@@ -6,13 +6,13 @@
 
 # Table of Contents
 
+- Info & FAQ
+  - [FAQ]()
 - Installing Mods
   - [Subnautica 2.0]()
   - [Subnautica Legacy]()
   - [Below Zero]()
  
-- Info & FAQ
-  - [FAQ]()
 - Mod Making
   - [Via BepInEx]()
   - [Via QModManager]()
