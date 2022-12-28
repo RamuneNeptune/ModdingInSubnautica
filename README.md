@@ -7,7 +7,7 @@
 # Table of Contents
 
 - Info & FAQ
-  - [FAQ]()
+  - [General FAQ]()
   - [SN 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
   - [BZ 2.0 | List of working mods](https://ramuneneptune.github.io/choices/modlist.html)
 - Installing Mods
