@@ -40,9 +40,9 @@ The following is a guide to installing and using mods for Subnautica Legacy.
  ![](https://snm.crd.co/assets/images/image01.jpg?v=e6c5ef0b)
  
  5. Launch the game to generate a `QMods` folder.
- 6. Place your `SMLHelper-SN.STABLE.zip` file into the newly generated `QMods` folder.
- 7. Example 
- 8. Example 
+ 6. Extract / Unzip `SMLHelper-SN.STABLE.zip` into the newly generated `QMods` folder.
+ 7. That should create a `Modding Helper` folder inside `QMods`.
+ 8. Delete the lefover zip files for `SMLHelper` & `QModManager`, and then you're ready to install mods to your `QMods` folder.
 <br></br>
 
 ---
