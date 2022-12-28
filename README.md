@@ -17,7 +17,7 @@
 - Mod Making
   - [Via BepInEx]()
   - [Via QModManager]()
-  - 
+  
 <br></br>
 
 ---
