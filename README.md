@@ -21,7 +21,7 @@ You can find instructions to access the Legacy branch [here]().
 ---
 
 ## Mod Setup for SN 2.0
- 1. Download the [Subnautica BepInEx Pack](), and optionally, but recommended, [BepInEx Tweaks](), and [Configuration Manager]().
+ 1. Download the [Subnautica BepInEx Pack](https://www.nexusmods.com/subnautica/mods/1108), and optionally, but recommended, [BepInEx Tweaks](https://www.nexusmods.com/subnautica/mods/1104?tab=description), and [Configuration Manager](https://www.nexusmods.com/subnautica/mods/1112).
  2. If you have used `QModManager` before or have any existing mod installations, delete the `QMods` & `BepInEx` folders from your game folder.
  
 <strong>Backup your QMods folder if you believe you might switch to [Subnautica Legacy]() at some point in the future.</strong>
@@ -34,7 +34,7 @@ You can find instructions to access the Legacy branch [here]().
 <br></br>
 
 ## Mod Setup for SN Legacy
- 1. Download [QModManager v4.4.4]() here, and [SMLHelper v2.14.1]() here.
+ 1. Download [QModManager v4.4.4](https://github.com/SubnauticaModding/QModManager/releases/download/v4.4.4/QModManager_SN1.STABLE.zip) here, and [SMLHelper v2.14.1](https://github.com/SubnauticaModding/SMLHelper/releases/download/v2.14.1/SMLHelper_SN.STABLE.zip) here.
  2. Place both zip files into your game installation folder.
  3. Extract / Unzip `QModManager_SN1.STABLE.zip` into your game folder.
  3.1. You should now have all the files highlighted in Green.
