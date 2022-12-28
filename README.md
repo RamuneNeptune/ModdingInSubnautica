@@ -106,7 +106,7 @@ You can find instructions to access the Legacy branch [here]().
 ---
 
 #### Contributors:
-  - RamuneNeptune
+  - RamuneNeptune: Everything, so far.
 
 <br></br>
 
