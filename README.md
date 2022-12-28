@@ -5,7 +5,7 @@
 ---
 
 # Table of Contents
-- [General Information & FAQ]()
+- [Info & FAQ]()
 - [Mod Making]()
 - [Mod Lists]()
 - [Misc]()
