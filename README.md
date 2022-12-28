@@ -46,11 +46,16 @@ You can find instructions to access the Legacy branch [here]().
 
 ## Mod Setup for SN 2.0
  1. Download the [Subnautica BepInEx Pack](https://www.nexusmods.com/subnautica/mods/1108), and optionally, but recommended, [BepInEx Tweaks](https://www.nexusmods.com/subnautica/mods/1104?tab=description), and [Configuration Manager](https://www.nexusmods.com/subnautica/mods/1112).
+ 
  2. If you have used `QModManager` before or have any existing mod installations, delete the `QMods` & `BepInEx` folders from your game folder. <strong>Backup your QMods folder if you believe you might switch to [Subnautica Legacy]() at some point in the future.</strong>
+ 
  3. Extract / Unzip the `Subnautica BepInEx Pack` zip file into your game installation folder. <strong>If it asks about replacing / overwriting files, select Yes, or confirm, or something of that equivalent.</strong>
+ 
  4. Launch the game to generate a `plugins` folder, which will appear inside the `BepInEx` folder located in your game installation folder.
+ 
  5. Extract the `BepInEx Tweaks` & `Configuration Manager` zip files into your game folder, (if you installed them) and they *should* end up inside the `BepInEx\plugins` folder. 
- 8. You are now free to install mods that are updated for 2.0, [see the list here](https://ramuneneptune.github.io/modlists/sn.html). 
+ 
+ 6. You are now free to install mods that are updated for 2.0, [see the list here](https://ramuneneptune.github.io/modlists/sn.html). 
 <br></br>
 
 ## Mod Setup for SN Legacy
