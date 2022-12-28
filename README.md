@@ -1,9 +1,19 @@
+---
+
+<br></br>
+
+---
+
 # Table of Contents
 - [General Information & FAQ]()
 - [Mod Installation]()
 - [Mod Making]()
 - [Mod Lists]()
 - [Misc]()
+<br></br>
+
+---
+
 <br></br>
 
 ---
@@ -16,6 +26,10 @@ An update to the game which caused QModManager to break, and also brought along 
 A branch of the game available to Steam users. It is the game version prior to the current build, which is 71137, and the Legacy build is 68598.
 Keep in mind, as this is the previous version of the game, all mods that worked before the update, will work on Legacy.
 You can find instructions to access the Legacy branch [here]().
+<br></br>
+
+---
+
 <br></br>
 
 ---
@@ -44,6 +58,10 @@ You can find instructions to access the Legacy branch [here]().
  6. Extract / Unzip `SMLHelper-SN.STABLE.zip` into the newly generated `QMods` folder.
  7. That should create a `Modding Helper` folder inside `QMods`.
  8. Delete the lefover <strong>zip files</strong> for `SMLHelper` & `QModManager`, and then you're ready to install mods to your `QMods` folder.
+<br></br>
+
+---
+
 <br></br>
 
 ---
