@@ -43,7 +43,7 @@ Keep in mind, as this is the previous version of the game, all mods that worked 
 You can find instructions to access the Legacy branch [here]().
 
 ### What is Submodica?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. 
+https://submodica.xyz, referred to as `Submodica`, is a relatively new site being useed to list & find amazing Subnautica & Below Zero mods. A key part of this website is it has mods listed that have been removed from [Nexus](https://www.nexusmods.com/), but posted here instead by their respective Mod Authors. Do also keep in mind that this site has not yet been fully announced to the [Subnautica Modding] discord community, and is currently still in Beta. A comment system is in-the-works or soon to be in-the works, so hopefully once that comes out we might get a public annnouncement of the site!
 
 ### What happened with Nexus?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum sem, eu efficitur metus tristique at. Proin hendrerit tellus quis odio vestibulum, vitae iaculis arcu aliquam. 
