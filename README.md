@@ -38,7 +38,7 @@ If you feel there's something you could add, for some ideas, maybe something lik
 An update to the game which caused QModManager to break, and also brought along a ton of changes to the game code. Both of these have caused most (if not all) mods to require an update to be compatible with the latest version of the game. 
 
 ### What is Subnautica Legacy?
-A branch of the game available to Steam users. It is the game version prior to the current build, which is 71137, and the Legacy build is 68598.
+A branch of the game available to Steam users. It is the game version prior to the current build. The current build is 71137, and the Legacy build is 68598.
 Keep in mind, as this is the previous version of the game, all mods that worked before the update, will work on Legacy.
 You can find instructions to access the Legacy branch [here]().
 
