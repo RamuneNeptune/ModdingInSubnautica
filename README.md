@@ -73,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada rutrum se
 ---
 
 ## Mod Setup for SN (Subnautica) 2.0
-<strong>QModManager is no longer in-use, mods need to transition from `QMods` to `BepInEx` mods, so far around 50-60 already have made the transition. All of those mods are functional in 2.0, but are extremely likely to cause issues if used with the Legacy branch.</strong>
+<strong>QModManager is no longer in-use, mods need to transition from `QMods` to `BepInEx` mods, so far around 70-80 already have made the transition. All of those mods are functional in 2.0, but are extremely likely to cause issues if used with the Legacy branch.</strong>
  1. Download the [Subnautica BepInEx Pack](https://www.nexusmods.com/subnautica/mods/1108), and optionally, but recommended, [BepInEx Tweaks](https://www.nexusmods.com/subnautica/mods/1104?tab=description), and [Configuration Manager](https://www.nexusmods.com/subnautica/mods/1112).
  
  2. If you have used `QModManager` before or have any existing mod installations, delete the `QMods` & `BepInEx` folders from your game folder. <strong>Backup your QMods folder if you believe you might switch to [Subnautica Legacy]() at some point in the future.</strong>
